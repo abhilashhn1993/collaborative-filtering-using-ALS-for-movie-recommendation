@@ -1,5 +1,5 @@
 # movie-recommendation-engine
-A Context based Recommendation system for Big Data systems to recommend movies and TV shows for users.
+A Context based Recommendation system for Big Data setting to recommend movies and TV shows for users.
 
 # Movie recommendations for users
 
